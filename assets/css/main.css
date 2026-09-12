@@ -652,6 +652,19 @@ section,
   margin-bottom: 0.75rem;
 }
 
+.about .about-specialties .group-title {
+  font-size: 20px;
+  margin-top: 1.75rem;
+  margin-bottom: 0.25rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--accent-color);
+}
+
+.about .about-specialties .group-title:first-child {
+  margin-top: 0;
+}
+
+
 /*--------------------------------------------------------------
 # CV Viewer
 --------------------------------------------------------------*/
